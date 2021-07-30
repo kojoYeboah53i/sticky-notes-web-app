@@ -24,7 +24,7 @@ Vue, Vue Konva, TailwindCSS, Vue Testing Library
 Clone the project
 
 ```bash
-  git clone https://github.com/lauragift21/stickie-app
+  git clone https://github.com//stickie-app
 ```
 
 Go to the project directory
