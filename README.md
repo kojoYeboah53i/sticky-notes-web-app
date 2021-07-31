@@ -6,9 +6,7 @@ A scrum board (inspiration from Miro) to work with stickies.
 ## Badges
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-## Demo
 
-[Demo](/link)
 ## Features
 - [x]  User should be able to create a new sticky (With text and color as prop)
 - [x]  User should be able to move sticky anywhere on the board
@@ -67,6 +65,6 @@ To deploy this project run
 
 ## Authors
 
-- [@lauragift21](https://www.github.com/lauragift21)
+- [@kojoyeboah53i](https://www.github.com/kojoyeboah53i)
 
   
